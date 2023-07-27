@@ -18,7 +18,7 @@ const DynamicCounter = () => {
                 Simple counter APP
             </h1>
             <div className="text-center space-y-4">
-                <h1 className="text-3xl">Count :{count. dynamicCounter.value}</h1>
+                <h1 className="text-3xl">Count :{count.dynamicCounter.value}</h1>
                 <div>
                     <button
                         onClick={() => dincrementHandle(5)}
